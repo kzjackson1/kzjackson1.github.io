@@ -6,13 +6,9 @@
   padding-top: var(--jumbotron-padding-y);
   padding-bottom: var(--jumbotron-padding-y);
   margin-bottom: 0;
-  background: url(../port.gif); no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
 }
 }
+
 @media (min-width: 768px) {
   .jumbotron {
     padding-top: calc(var(--jumbotron-padding-y) * 2);
@@ -43,7 +39,7 @@ footer p {
 
 .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
 
-.album py-5 bg-light{
+body{
 url(../port.gif); no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
