@@ -6,8 +6,7 @@
   padding-top: var(--jumbotron-padding-y);
   padding-bottom: var(--jumbotron-padding-y);
   margin-bottom: 0;
-  background: url(../1553610964_retro grid.gif);
-  no-repeat center center fixed; 
+  background: url(../giphy.gif); no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
